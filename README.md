@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- <img alt="github-snake" src="https://raw.githubusercontent.com/NguyenNgocHuongGiang/NguyenNgocHuongGiang/github-snake.svg" />
+   <img alt="github-snake" src="https://raw.githubusercontent.com/NguyenNgocHuongGiang/NguyenNgocHuongGiang/output/github-snake.svg" />
   
   <br/><br/><br/>
 </div>
