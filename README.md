@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&color=ffdd33&center=true&vCenter=true&width=500&height=150&duration=4000&lines=Hi+bro+👋;+I'm+Huong+Giang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&color=ffd036&center=true&vCenter=true&width=500&height=150&duration=4000&lines=Hi+bro+👋;+I'm+Giang!;" />
 </h1>
 
 <h3 align="center">A fullstack developer from VietNam</h3>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
  <hr/>
  
-<h2 align="center">⚒️Database-Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">💻 Database-Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
