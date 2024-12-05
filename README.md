@@ -51,19 +51,19 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-<!--<hr/>
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NguyenNgocHuongGiang/NguyenNgocHuongGiang/output/github-contribution-grid-snake.svg" />
+ <img alt="github-snake" src="https://raw.githubusercontent.com/NguyenNgocHuongGiang/NguyenNgocHuongGiang/github-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
-<hr/>-->
+<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!--<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-NguyenNgocHuongGiang.vercel.app/?user=NguyenNgocHuongGiang&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-<hr/>
+<hr/>-->
 
 <br/>
 
