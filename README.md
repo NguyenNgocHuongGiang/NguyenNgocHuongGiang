@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=ffd8ed&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+bro!+👋;+I'm+Giang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=62b1ff&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+bro!+👋;+I'm+Giang!;" />
 </h1>
 
 <h3 align="center">A software developer from Viet Nam</h3>
