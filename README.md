@@ -56,8 +56,11 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   <img alt="github-snake" src="https://raw.githubusercontent.com/NguyenNgocHuongGiang/NguyenNgocHuongGiang/output/github-snake.svg" />
-  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenNgocHuongGiang/NguyenNgocHuongGiang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenNgocHuongGiang/NguyenNgocHuongGiang/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NguyenNgocHuongGiang/NguyenNgocHuongGiang/output/github-snake.svg" />
+</picture>
   <br/><br/><br/>
 </div>
 
