@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img width=500 height=200 src="https://github-readme-streak-stats-salesp07.vercel.app?user=NguyenNgocHuongGiang&theme=vision-friendly-dark"/>
-  <img width=500 height=200 src="https://github-readme-stats.vercel.app/api?username=NguyenNgocHuongGiang&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width=350 height=200 src="https://github-readme-streak-stats-salesp07.vercel.app?user=NguyenNgocHuongGiang&theme=vision-friendly-dark"/>
+  <img width=350 height=200 src="https://github-readme-stats.vercel.app/api?username=NguyenNgocHuongGiang&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
     <br>
   <img width=500 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNgocHuongGiang&hide=HTML&langs_count=9&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
