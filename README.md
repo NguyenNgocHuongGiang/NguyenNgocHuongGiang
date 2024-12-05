@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=ffdd33&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+bro!+👋;+I'm+Giang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&color=ffdd33&center=true&vCenter=true&width=500&height=150&duration=4000&lines=Hi+bro+👋;+I'm+Huong+Giang!;" />
 </h1>
 
-<h3 align="center">A software developer from VietNam</h3>
+<h3 align="center">A fullstack developer from VietNam</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m a student in TDTU
+ 🔭 I have a passion for **coding**
  
  🌱 I’m currently learning **Docker, Flutter**
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️Database-Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
@@ -71,8 +71,10 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=NguyenNgocHuongGiang&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNgocHuongGiang&hide=HTML&langs_count=8&layout=compact&theme=vue-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <img width=500 height=200 src="https://github-readme-streak-stats-salesp07.vercel.app?user=NguyenNgocHuongGiang&theme=vision-friendly-dark"/>
+  <img width=500 height=200 src="https://github-readme-stats.vercel.app/api?username=NguyenNgocHuongGiang&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br>
+  <img width=500 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNgocHuongGiang&hide=HTML&langs_count=9&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -82,7 +84,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
